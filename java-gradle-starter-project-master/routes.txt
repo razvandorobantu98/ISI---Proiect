@@ -1,0 +1,8 @@
+Parcuri
+Lista cu parcuri.
+
+Baruri
+Lista cu baruri.
+
+Muzee
+Lista cu cele mai bune muzee.

@@ -1,0 +1,18 @@
+Parcul Feroviar
+46.7830031
+23.5958862
+Parcul Cetatuia
+46.7753326
+23.5816491
+Parcul Central Simion Barnutiu
+46.7716512
+23.5833549
+Parcul Iuliu Hatieganu
+46.7664484
+23.5626698
+Parcul Iuliu Prodan
+46.7576804
+23.5728085
+Parcul Colina
+46.7536082
+23.5386801

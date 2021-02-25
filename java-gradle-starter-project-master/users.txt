@@ -1,0 +1,12 @@
+abc 123 no
+qwe qwe no
+qwe qwe no
+qwe qwe no
+asd asd no
+stefan asd no
+stefan asd no
+Maricica asd yes
+Dani asd yes
+Razvan asd no
+Stefan asd no
+Razvan asd no

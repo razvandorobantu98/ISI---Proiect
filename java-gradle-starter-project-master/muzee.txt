@@ -1,0 +1,24 @@
+Turnul Pompierilor
+46.7733679
+23.5909335
+Palatul Mikes
+46.7717835
+23.5870484
+Muzeul Național de Istorie a Transilvaniei
+46.7715987
+23.5863069
+Casa Memorială "Regele Matei Corvin"
+46.7711185
+23.5875861
+Piata Muzeului
+46.7698426
+23.5888669
+Muzeul de Mineralogie
+46.7676238
+23.5910766
+Muzeul Gradinii Botanice
+46.7621491
+23.5876787
+Muzeu Parc Utilaje Agricole
+46.7605174
+23.5669291
